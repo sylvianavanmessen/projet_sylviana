@@ -2,5 +2,7 @@
 const cedric = champion;
 /*fin code js Cedric*/
 /*debut code js virginie*/
+var projet;
+document.getElementById
 
 /*fin code virginie*/
